@@ -12,4 +12,6 @@ I hope you find this useful.
 
 ## To download the EPUB
 
+Click the epub from the list of files above or...
+
 Head over to [releases](https://github.com/jessebrennan/ableton_manual/releases/tag/10.1.30).
